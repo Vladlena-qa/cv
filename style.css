@@ -1,0 +1,17 @@
+.main{
+width: 100%;
+height: 100vh;
+background-color: ;
+}
+.main h1{
+	font-size: 3rem;
+	text-transform: uppercase;
+	font-family: "Montserrat";
+}
+.main p1{
+	margin-top: 10px;
+	font-size: 1rem;
+}
+.main i{
+	font-size: 2rem;
+}
